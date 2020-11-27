@@ -6,7 +6,8 @@ Esse projeto foi desenvolvido com React.
 
 NodeJs
 
-### `yarn start`
+
+
 
 
 
